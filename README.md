@@ -1,0 +1,2 @@
+# ATTACKS.md
+CWR ATTACK MAP
